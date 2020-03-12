@@ -1,0 +1,61 @@
+html {
+    scroll-behavior: smooth;
+}
+body {
+    font-family: 'ABeeZee', sans-serif;
+    margin: 50px auto;
+    width: 80%;
+    background-color: #EDEFF0;
+    
+}
+
+img {
+    width: 4%;
+    vertical-align: middle;
+    padding-left: 20px;
+}
+
+h3 {
+    display: inline;
+    vertical-align: middle;
+}
+article {
+    border-top: 3px solid #244F9E;
+    border-radius: 3px;
+    
+    background-color: white;
+    margin-bottom: 50px;
+    
+}
+article header{
+    background-color: #F9FAFA;
+    
+    padding: 1px 20px;
+   
+}
+div, p, h3 {
+    padding: 20px;
+    
+   
+}
+article li{
+    padding: 10px;
+}
+nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  position: fixed;
+  top: 0px;
+  left: 0px;
+}
+
+li a {
+  text-decoration: none;
+  display: block;
+  padding: 10px 15px;
+  border: solid darkgrey 1px;
+  background-color: grey;
+  color: lightblue;
+  
+}
